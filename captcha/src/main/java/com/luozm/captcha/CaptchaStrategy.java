@@ -6,7 +6,9 @@ import android.graphics.Paint;
 import android.graphics.Path;
 
 /**
- * Created by luozhanming on 2018/1/19.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 public abstract class CaptchaStrategy {

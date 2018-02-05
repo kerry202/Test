@@ -7,9 +7,10 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 
 /**
- * Created by luozhanming on 2018/1/17.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
-
 class TextSeekbar extends android.support.v7.widget.AppCompatSeekBar {
 
 

@@ -1,7 +1,9 @@
 package com.luozm.captcha;
 
 /**
- * Created by cdc4512 on 2018/2/5.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 public class PositionInfo {

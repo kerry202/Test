@@ -19,7 +19,9 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
 
 /**
- * Created by luozhanming on 2018/1/17.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 public class Captcha extends LinearLayout {

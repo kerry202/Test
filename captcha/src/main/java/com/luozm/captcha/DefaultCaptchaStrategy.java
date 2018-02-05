@@ -9,11 +9,11 @@ import android.graphics.Path;
 import android.support.annotation.NonNull;
 
 import java.util.Random;
-
 /**
- * Created by luozhanming on 2018/1/19.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
-
 public class DefaultCaptchaStrategy extends CaptchaStrategy {
 
     public DefaultCaptchaStrategy(Context ctx) {

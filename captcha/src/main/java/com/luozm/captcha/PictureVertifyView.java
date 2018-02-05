@@ -13,7 +13,9 @@ import android.view.View;
 
 
 /**
- * Created by luozhanming on 2018/1/17.
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
  */
 
 class PictureVertifyView extends AppCompatImageView {

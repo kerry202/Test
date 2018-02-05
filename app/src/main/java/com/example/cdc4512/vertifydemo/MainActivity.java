@@ -9,7 +9,11 @@ import android.widget.Toast;
 
 import com.luozm.captcha.Captcha;
 
-
+/**
+ * @author yangbo
+ * @since 2018/2/5
+ * @mail 903023560@qq.com
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Captcha captcha;
